@@ -7,7 +7,7 @@ Estabelecer competências em portas lógicas e álgebra Booleana, circuitos lóg
 <ul>
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
-    <li> <a href="https://github.com/marcelinoandrade/Teoria-de-Circuitos-Eletronicos-1/blob/master/Plano.pdf" ><b>Disciplina: Teoria de Circuitos Eletrônicos 1</b></a></li>
+    <li> <a href="https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Plano%20de%20Aula.pdf" ><b>Disciplina: Prática de Eletrônica Digital 1</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr (andrade@unb.br).</b></a></li>
     <li> <b>Pré-requisitos:</b> Álgebra Linear  </li>
 
