@@ -1,4 +1,6 @@
-<img src="fga.png" >
+<img src="fga.jpg" >
+
+
 
 ### Prática de Eletrônica Digital 1
 <p align="justify">
