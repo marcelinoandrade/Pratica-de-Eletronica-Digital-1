@@ -33,6 +33,7 @@ Estabelecer competências práticas em portas lógicas e álgebra Booleana, circ
       <li> <a href="https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2001%20-%20Apresenta%C3%A7%C3%A3o%20do%20Curso.pdf"> <b> Aula 01: Apresentação do Curso</b> </a></li>
       <li> <a href="https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2002%20-%20Laborat%C3%B3rio%20de%20Eletr%C3%B4nica%20Digital.pdf"> <b> Aula 02: Laboratório de Eletrônica Digital</b> </a></li>
       <li> <a href="https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2003%20-%20Exp%2001%20%20Multiplexador.pdf"> <b> Prática 01: Multiplexador 2:1</b> </a></li>
+      <li> <a href="https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2004%20-%20Exp%2002%20%20Somador.pdf"> <b> Prática 02: Somador Completo</b> </a></li>
    
 </ol>
 
