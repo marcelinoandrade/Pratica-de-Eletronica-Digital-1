@@ -38,6 +38,7 @@ Estabelecer competências práticas em portas lógicas e álgebra Booleana, circ
       <li> <a href="https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2006%20-%20Exp%2004%20Mem%C3%B3ria.pdf"> <b> Prática 04: Memória Binária 2:2</b> </a></li>
       <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula_07_Vivado.pdf> <b> Aula 03: Programando com o Vivado</b> </a></li>
     <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2008%20-%20Exp%2005%20Alarme.pdf> <b> Prática 05: Alarme Automotivo</b> </a></li>
+ <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2009%20-%20Exp%2006%20ULA.pdf><b> Prática 06: Unidade Lógica Aritmética</b> </a></li>
 
 </ol>
 
