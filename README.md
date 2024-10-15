@@ -40,11 +40,9 @@ Estabelecer competências práticas em portas lógicas e álgebra Booleana, circ
     <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2008%20-%20Exp%2005%20Alarme.pdf> <b> Prática 05: Alarme Automotivo</b> </a></li>
  <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2009%20-%20Exp%2006%20ULA.pdf><b> Prática 06: Unidade Lógica Aritmética</b> </a></li>
  <li> <a  href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2010%20-%20Prioridade.pdf><b> Prática 07: Decodificador de Prioridade</b> </a></li>
-   <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2011%20-%20Cron%C3%B4mentro%20Digital.pdf><b> Prática 07: Cronômetro Digital</b> </a></li>
+   <li> <a href=https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2011%20-%20Cron%C3%B4mentro%20Digital.pdf><b> Prática 08: Cronômetro Digital</b> </a></li>
 
 </ol>
-
-
 
 
 
