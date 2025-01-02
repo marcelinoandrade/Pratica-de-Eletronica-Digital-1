@@ -7,7 +7,7 @@ Este repositório tem como objetivo desenvolver competências práticas em porta
 ## Informações da Disciplina
 - **Universidade de Brasília - UnB**
 - **Campus UnB Gama**
-- [**Plano de Aula: Prática de Eletrônica Digital 1**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Plano%20de%20Aula.pdf)
+- [**Plano de Aula: Prática de Eletrônica Digital 1**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Plano_de_Aula.pdf)
 - [**Prof. Marcelino Monteiro de Andrade, Dr. (andrade@unb.br)**](https://www.linkedin.com/in/marcelino-andrade-b164b369/)
 - **Pré-requisitos:** Álgebra Linear
 
