@@ -27,11 +27,12 @@ Este repositório tem como objetivo desenvolver competências práticas em porta
 4. [**Prática 02: Somador Completo**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2004%20-%20Exp%2002%20%20Somador.pdf)
 5. [**Prática 03: Contador Binário**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2005%20-%20Exp%2003%20Contador.pdf)
 6. [**Prática 04: Memória Binária 2:2**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2006%20-%20Exp%2004%20Mem%C3%B3ria.pdf)
-7. [**Programando com o Vivado**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula_07_Vivado.pdf)
-8. [**Prática 05: Alarme Automotivo**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2008%20-%20Exp%2005%20Alarme.pdf)
-9. [**Prática 06: Unidade Lógica Aritmética**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2009%20-%20Exp%2006%20ULA.pdf)
-10. [**Prática 07: Decodificador de Prioridade**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2010%20-%20Prioridade.pdf)
-11. [**Prática 08: Cronômetro Digital**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2011%20-%20Cron%C3%B4mentro%20Digital.pdf)
+7. [**Guia FPGA AX301 e Quatus II**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula_07_Guia_Placa_FPGA_AX301_com_Quartus_II_Manual.pdf)
+8. [**Apresentação FPGA AX301 e Quatus II**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula_07_Guia_Placa_FPGA_AX301_com_Quartus_II_Slides.pdf)
+9. [**Prática 05: Alarme Automotivo**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2008%20-%20Exp%2005%20Alarme.pdf)
+10. [**Prática 06: Unidade Lógica Aritmética**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2009%20-%20Exp%2006%20ULA.pdf)
+11. [**Prática 07: Decodificador de Prioridade**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2010%20-%20Prioridade.pdf)
+12. [**Prática 08: Cronômetro Digital**](https://github.com/marcelinoandrade/Pratica-de-Eletronica-Digital-1/blob/main/Aulas/Aula%2011%20-%20Cron%C3%B4mentro%20Digital.pdf)
 
 ## Bibliografia Recomendada
 1. Thomas Floyd, _Sistemas Digitais: Fundamentos e Aplicações_, 9ª Ed., Bookman, Porto Alegre, 2007.
