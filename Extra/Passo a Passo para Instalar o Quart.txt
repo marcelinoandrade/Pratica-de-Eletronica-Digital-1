@@ -1,0 +1,93 @@
+Passo a Passo para Instalar o Quartus II 64-bit Version 13.1.0
+
+1. Preparação do Ambiente: Abra o terminal e navegue até o diretório de downloads:
+
+>> cd ~/Downloads
+
+1.1. Certifique-se de que o arquivo .tar está no diretório:
+
+>> ls
+>> quartus-web-13.1.0.162-linux.tar
+
+2. Instalar Dependências Necessárias: Antes de executar o instalador, instale as dependências exigidas pelo Quartus:
+
+2.1. Atualize os repositórios do sistema:
+
+>> sudo apt update
+
+2.2. Instale as bibliotecas de 32 bits: O Quartus exige várias bibliotecas de 32 bits, mesmo em sistemas de 64 bits:
+
+sudo apt install libc6:i386 libncurses5:i386 libstdc++6:i386 libxext6:i386 libxft2:i386 libxrender1:i386
+
+2.3. Adicione o PPA para instalar libpng12: Como o libpng12-0 não está disponível em distribuições Linux modernas, você precisa adicionar um repositório alternativo:
+
+>> sudo add-apt-repository ppa:linuxuprising/libpng12
+>> sudo apt update
+
+2.4. Instale a biblioteca libpng12:
+
+>> sudo apt install libpng12-0
+
+2.5. Verifique se todas as dependências estão instaladas:
+
+>> ls /usr/lib/i386-linux-gnu/libpng12.so.0
+>> ls /usr/lib/x86_64-linux-gnu/libpng12.so.0
+
+Se os arquivos existirem, as dependências foram instaladas corretamente.
+
+3. Extrair o Arquivo .tar: Extraia o arquivo do Quartus II:
+
+>> tar -xvf quartus-web-13.1.0.162-linux.tar
+
+3.1. Navegue para o diretório extraído:
+
+>> cd quartus-web-13.1.0.162-linux
+
+4. Executar o Instalador: Dê permissão de execução ao script setup.sh:
+
+chmod +x setup.sh
+
+4.1. Execute o instalador:
+
+>> sudo ./setup.sh
+
+Siga as instruções do instalador gráfico:
+Aceite os termos de licença.
+Escolha o diretório de instalação (padrão: /home/username/altera/13.1/).
+Selecione os componentes desejados (Quartus II, ModelSim, etc.).
+
+5. Configurar o USB-Blaster (opcional): Se você planeja usar o USB-Blaster para programar FPGAs, configure-o:
+
+5.1. Verifique se o dispositivo está conectado: Plugue o USB-Blaster no computador e rode:
+
+>> lsusb
+>> Bus 001 Device 026: ID 09fb:6001 Altera Blaster
+
+5.2. Crie uma regra para permissões do USB-Blaster:
+
+>> sudo nano /etc/udev/rules.d/51-usbblaster.rules
+
+5.3. Adicione as linhas abaixo:
+
+>> SUBSYSTEM=="usb", ATTR{idVendor}=="09fb", ATTR{idProduct}=="6001", MODE="0666"
+>> SUBSYSTEM=="usb", ATTR{idVendor}=="09fb", ATTR{idProduct}=="6002", MODE="0666"
+
+5.4. Recarregue as regras do udev:
+
+>> sudo udevadm control --reload-rules
+>> sudo udevadm trigger
+
+5.5. Teste a comunicação com o USB-Blaster: Navegue até o diretório do Quartus e rode o comando:
+
+>> cd ~/altera/13.1/quartus/bin
+./jtagconfig
+
+Você deve ver o dispositivo listado.
+
+6. Executar o Quartus II: Navegue até o diretório do Quartus:
+
+cd ~/altera/13.1/quartus/bin
+
+6.1. Inicie o Quartus:
+
+./quartus
